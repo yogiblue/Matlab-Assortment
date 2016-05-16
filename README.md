@@ -7,4 +7,8 @@ mCircle.m   - takes an image and calculates various properties on the main objec
 
 ExtractAudioFeatures.m   - reads in a directory of wav files and calculates various audio features
 
+akaike_information_criterion.m  - calculates and plots the Akaike information criterion for different model sizes
+
+
+
 
